@@ -1,2 +1,1 @@
-# trex
-Chrome's trex game created using p5.play
+PRO-C39: INFINITE RUNNER GAME
